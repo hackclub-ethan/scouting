@@ -1,1 +1,3 @@
-# scouting
+# Scouting
+
+Scouting for FRC Reefscape
